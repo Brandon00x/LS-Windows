@@ -1,0 +1,15 @@
+{
+  "name": "LS Windows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brandon Voth",
+  "license": "MIT",
+  "bin": {
+    "ls": "app.js"
+  }
+}
